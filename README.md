@@ -10,12 +10,12 @@ This is our space for keeping track of planning activities leading up to the 201
 
 **Meeting Time**
 
-* Our meeting time is 4PM London Time (GMT+1)
-* We'll figure out a meeting schedule
+* Our first meeting is Monday, May 8th at 4PM London Time (GMT+1)
+* ...subsequent meeting schedule TBD
 
 **Members**
 
 * Luke Pacholski
   * [@flukeout](https://github.com/flukeout)
   * [luke@mozillafoundation.org](mailto:luke@mozillafoundation.org)
-* ...
+* ...let's fill this one if we decide to use github!
