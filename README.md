@@ -1,4 +1,4 @@
-### Mozfest 2017 Web Literacy Space Planning
+# Mozfest 2017 Web Literacy Space Planning
 
 This is our space for keeping track of planning activities leading up to the 2017 Mozilla Festival.
 
