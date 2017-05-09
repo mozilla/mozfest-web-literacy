@@ -18,4 +18,9 @@ This is our space for keeping track of planning activities leading up to the 201
 * Luke Pacholski
   * [@flukeout](https://github.com/flukeout)
   * [luke@mozillafoundation.org](mailto:luke@mozillafoundation.org)
+  
+* Edoardo Viola
+  * [@edovio](https://github.com/edovio)
+  * [edovio@mozillaitalia.org](mailto:edovio@mozillaitalia.org)
+  
 * ...let's fill this out if we decide to use github!
