@@ -9,6 +9,7 @@ This is our space for keeping track of planning activities leading up to the 201
 * [Notes from May 30 planning call with Sarah & Erika](https://public.etherpad-mozilla.org/p/wranglergroupweblit)
   * [Roles Doc](https://public.etherpad-mozilla.org/p/festival.roles2017)
 * [Festival Calendar](https://public.etherpad-mozilla.org/p/festival.roles2017)
+* [Space Planning on Pinterest](https://www.pinterest.com/phillipabailey2/mozfest-space-ideas/)
 
 **Meeting Time**
 
