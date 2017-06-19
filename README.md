@@ -30,3 +30,5 @@ This is our space for keeping track of planning activities leading up to the 201
   * [@mwakaswanga](https://github.com/mwakaswanga)
 * Mariana Delgado
   * [@MarianaDelgadoG](https://github.com/MarianaDelgadoG)
+* Jonathan Prozzi
+  * [@jonathanprozzi](https://github.com/jonathanprozzi)
